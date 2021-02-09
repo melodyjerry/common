@@ -1,23 +1,47 @@
-## 背景
-~ 阐述 记录/问题/事件/... 发生的背景
+<!--
+First of all：
+确认你已再次看过一遍 README 文档，因为有些问题可能在你离开的这段时间已被解决。
+Make sure you have read the README file again, because some issues may have been resolved during your absence.
+-->
 
-## 分析
-~ 先给出自己的态度以及尝试
+### 描述问题 Describe the problem
 
-## 记录
-~ 原始文案收集
+<!--
+请尽量清晰精准地描述你碰到的问题。
+Please describe your problem as clearly and accurately as possible.
 
-## 变更
-~ 记录合并学员建议/增补的主要变动信息
+主题问题请 @ 主题的作者，在 README 截图顶部。
+For system theme questions, please @ the author of the theme, the author information is at the top of the README screenshot.
+-->
 
-- 171117 ZQ init.
-- ... 使用日期 作者 记要 <-- 这种行格式来嗯哼
+### 期待的结果 Expected result
 
+<!--
+请尽量清晰精准地描述你所期待的结果。
+Please be as clear and accurate as possible to describe the results you are looking for.
+-->
 
-```
- .
-  .
-...
-```
-参考: [禁止事项清单](https://github.com/GC4WP/common/wiki/HbNotDoIt)
+### 截屏或录像 Screenshot or video
 
+<!--
+如果可能，请尽量附加截图或录像来描述你遇到的问题。
+If possible, please try to attach screenshots or videos to describe the problem you are experiencing.
+
+（Windows 下推荐使用 [Screen2Gif](https://www.screentogif.com/) 进行录屏。如果是编辑器输入相关问题，使用 Screen2Gif 录制结束后请打开`图像 - 按键`）
+(It is recommended to use [Screen2Gif](https://www.screentogif.com/) to record the screen under Windows. If it is related to the editor input, please open the `Image - Key Strokes` after recording with Screen2Gif)
+-->
+
+### 版本环境 Version environment
+
+* 版本 Version：
+* 操作系统 Operating system：
+* 浏览器（如果使用）Browser (if used)：
+
+### 其他信息 Other information
+
+<!--
+请提供其他附加信息帮助我们诊断问题。
+Please provide additional information to help us diagnose the problem.
+-->
+
+<!-- 模板来自老同志 @88250 的仓库 -->
